@@ -2,7 +2,8 @@
 
 ![preview](/src/imagens/preview.png)
 
-Projeto desenvolvido durante a Mapa Dev Week, do<a href="https://github.com/devemdobro"> Dev Em Dobro</a></strong>.
+Projeto desenvolvido durante a Mapa Dev Week, do<a href="https://github.com/devemdobro"> Dev Em Dobro</a></strong>.<br><br>
+[Clique aqui para acessar](https://lucasfranca0.github.io/mini-portfolio-LucasFranca/)
 
 # Desenvolvimento
 Durante o desenvolvimento do projeto pensei em maneiras de deixar o projeto o mais parecido com a minha visão. Foquei na temática 8bits, pois sou fã de jogos antigos. Foi muito interessante aprender e continuar me desenvolvendo com eventos gratuitos que ajudam muito quem está iniciando no mundo da programação.
