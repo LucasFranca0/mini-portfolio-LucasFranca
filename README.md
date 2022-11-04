@@ -8,7 +8,7 @@ Projeto desenvolvido durante a Mapa Dev Week, do<a href="https://github.com/deve
 # Desenvolvimento
 Durante o desenvolvimento do projeto pensei em maneiras de deixar o projeto o mais parecido com a minha visão. Foquei na temática 8bits, pois sou fã de jogos antigos. Foi muito interessante aprender e continuar me desenvolvendo com eventos gratuitos que ajudam muito quem está iniciando no mundo da programação.
 
-O Objetivo é continuar me desenvolvendo e atualizando meu portfólio com mais projetos massas!
+O Objetivo é continuar me desenvolvendo e atualizando meu portfólio com mais projetos interessantes!
 
 #
 
